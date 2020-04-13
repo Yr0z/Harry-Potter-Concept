@@ -1,0 +1,9 @@
+header {
+  background-image: url('https://believemy.com/uploads/5d4bd34ac95c862c36d0ab9bbeb738dd_4bc5c3dd1be7c919630b687313dda68a.jpeg'); 
+  background-size: cover;
+   background-position: center;
+}
+
+@media all and (max-width: 600px) {
+    header img { width: 100%; }
+  }
